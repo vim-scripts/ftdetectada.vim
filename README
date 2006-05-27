@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1565
+
+This plugin is superseded by vimscript#1609.
+Added *.gpr to the list of Ada files. While GNAT project files are not realy Ada they share the same keywords and concepts like use of Attributes so using Ada syntax highlight works quite well for them
+
+Reports errors to: http://code.google.com/p/vim-scripts/issues/list
+Discuss improvements on: http://groups.google.com/group/vim_scripts
+
